@@ -41,8 +41,16 @@ The analysis utilizes three primary CSV files:
 - `clusters_k2.csv`: CSV file containing 'Mixed Sound ID' and assigned clusters for `K=2`.
 - `clusters_k3.csv`: CSV file containing 'Mixed Sound ID' and assigned clusters for `K=3`.
 
-## Installation
+## Installation & Usage
 To run this notebook locally, you'll need Python and the following libraries:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
+
+
+Clone this repository:
+git clone https://github.com/YourUsername/YourRepoName.git
+cd YourRepoName
+Open the k_means_clustering_mixed_sound_data.ipynb file in a Jupyter environment (e.g., Jupyter Lab, Google Colab).
+Run all cells in the notebook to reproduce the analysis and results.
