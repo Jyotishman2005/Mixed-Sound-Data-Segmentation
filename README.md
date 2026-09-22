@@ -34,7 +34,7 @@ The analysis utilizes three primary CSV files:
 *(You can include screenshots of the Elbow Method plot and the PCA scatter plots here for better illustration if you convert them to images.)*
 
 ## Files
-- `your_notebook_name.ipynb`: The main Jupyter/Colab notebook containing all the analysis steps.
+- `KMeans_Project.ipynb`: The main Jupyter/Colab notebook containing all the analysis steps.
 - `Mix.csv`: The primary dataset for mixed sound data.
 - `HS.csv`: Dataset for heart sounds.
 - `LS.csv`: Dataset for lung sounds.
